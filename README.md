@@ -9,7 +9,7 @@ I build software and automations that take repetitive work off people's plates: 
 - 💼 Freelance developer since then, shipping production apps end to end
 - ✅ **Open to work:** full-time, contract, or freelance
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-edrian--gamma.vercel.app-111?style=for-the-badge&logo=vercel)](https://edrian-gamma.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-edrianpasaylo.com-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://edrianpasaylo.com)
 [![Email](https://img.shields.io/badge/Email-pasaylo.ed03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasaylo.ed03@gmail.com)
 
 ---
@@ -44,4 +44,4 @@ I build software and automations that take repetitive work off people's plates: 
 
 ## 📫 Let's work together
 
-Need an app built, a manual process automated, or AI added to an existing workflow? Email me at **[pasaylo.ed03@gmail.com](mailto:pasaylo.ed03@gmail.com)** or see more on my **[portfolio](https://edrian-gamma.vercel.app)**.
+Need an app built, a manual process automated, or AI added to an existing workflow? Email me at **[pasaylo.ed03@gmail.com](mailto:pasaylo.ed03@gmail.com)** or see more on my **[portfolio](https://edrianpasaylo.com)**.
